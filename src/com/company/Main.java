@@ -30,6 +30,8 @@ public class Main {
         reptile3.addInAviary();
         Water water1 = new Water("Морская черепаха Нюша", 2009, 84);
         water1.addInAviary();
+        Water water2 = new Water("Скат Электра", 2019, 12);
+        water2.addInAviary();
         Bird bird1 = new Bird("Ястреб Головач", 2017,5);
         bird1.addInAviary();
         Bird bird2 = new Bird("Гриф Стервец", 2009,15);
