@@ -32,6 +32,8 @@ public class Main {
         water1.addInAviary();
         Water water2 = new Water("Скат Электра", 2019, 12);
         water2.addInAviary();
+        Water water3 = new Water("Мурена Строчка", 2018, 10);
+        water3.addInAviary();
         Bird bird1 = new Bird("Ястреб Головач", 2017,5);
         bird1.addInAviary();
         Bird bird2 = new Bird("Гриф Стервец", 2009,15);
