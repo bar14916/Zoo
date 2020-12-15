@@ -36,7 +36,7 @@ public class Main {
         water3.addInAviary();
         Bird bird1 = new Bird("Ястреб Головач", 2017,5);
         bird1.addInAviary();
-        Bird bird2 = new Bird("Гриф Стервец", 2009,15);
+        Bird bird2 = new Bird("Гриф Стервец", 2007,15);
         bird2.addInAviary();
         Bird bird3 = new Bird("Гриф Сестрица", 2013,12);
         bird3.addInAviary();
